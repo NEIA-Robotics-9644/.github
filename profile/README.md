@@ -1,12 +1,22 @@
-## Hi there 👋
+# FRC 9644 – NEIA Robotics
 
-<!--
+Welcome to the official GitHub organization for FRC Team 9644: NEIA Robotics!
+We are a student-led FIRST Robotics Competition team from the New England Innovation Academy (NEIA) in Marlborough, MA.
 
-**Here are some ideas to get you started:**
+Our mission is to design, build, and program competitive robots while fostering creativity, leadership, and engineering excellence.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Codebases
+[2026 Season – REBUILT Code Base
+](https://github.com/vishnubharath/2026-Robot-Code)
+
+[2025 Season – Crescendo](https://github.com/vishnubharath/2025-Robot-Code)
+
+[2024 Season – Crescendo (Rookie Year)](https://github.com/vishnubharath/2024-Robot-Code)
+
+# Social Media
+
+Instagram: [@neiarobotics](https://www.instagram.com/neiarobotics/)
+
+Team Website: https://neiacademy.org/robotics
+
+The Blue Alliance Page: https://www.thebluealliance.com/team/9644
