@@ -1,5 +1,7 @@
 # FRC 9644 – NEIA Robotics
 
+<img src="assets/logo.png" width="50%" height="50%">
+
 Welcome to the official GitHub organization for FRC Team 9644: NEIA Robotics!
 We are a student-led FIRST Robotics Competition team from the New England Innovation Academy (NEIA) in Marlborough, MA.
 
